@@ -1,2 +1,3 @@
 Hello, my name is 8chan and I am interested in cyber security. I am 19 years old and I live in London.
-![e3bf5a8f175bd576cf2193a9dfc43daa](https://github.com/NashChat/NashChat/assets/164668378/1c1f1a42-5304-466e-97ff-c6702924b267)
+
+![6364c4885ee66541865beee28c169d95](https://github.com/NashChat/NashChat/assets/164668378/d9baa5d7-76cc-4b98-a666-12f3e9d73a24)
