@@ -9,7 +9,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=NashChat&label=Profile+Visits)
+![](https://komarev.com/ghpvc/?username=klanter1337&label=Profile+Visits)
 	
 ## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
 
