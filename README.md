@@ -1,140 +1,62 @@
-
-
-<h1 align="center"><b>Hi , I'm Nachash I Like Cyber Security </h1>
-
+<h1 align="center"> </🌼Beş>  
+ <img href="https://discord.com/users/928259219038302258" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+fivesobes" alt="Beş Was Here" />
+</h1>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+ <a align="center" href="https://discord.com/users/1255169221059547139" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a align="center" href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://top.gg/bot/854463472318677022"><img src="https://top.gg/api/widget/servers/854463472318677022.svg"></a>
+  <a align="center" href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a align="center" href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<br> </br>
+<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
+
+ 
+
+ <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
+ <h2 align="center">
+ <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
+ </h2>
+  <h2 align="center">
+ <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
+  </h2>
+ 
+ 
+  <h2 align="center">
+ <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
+ <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
+ <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
+ </h2>
+</br>
+
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
+<h2 align="center">
+<a href="https://supmass.gg/" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
+<a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
+<a href="https://t.me/coin_modu" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113237590640955562.png?size=128&quality=lossless" /> </a>
+ </h2>
+</br>
 
 
-<br>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+<h2 align="center">
+<img width="50%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
+<br> </br>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+</h2>
 
-![](https://komarev.com/ghpvc/?username=NashChat&label=Profile+Visits)
-	
-## <picture><img src = "./img/star.gif" width = 50px></picture> **About me**
 
-<br>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
-- A passionate Self-taught Web Developer
-- Playing League Of Legends at spare time
-- Currently learning Unreal Engine
-- Personal website [link](https://nachash.life)
-- I'm currently open for a business opportunity and partnership
+<h2 align="center">
+ <a href="https://discord.com/users/1255169221059547139"><img  width="400px" src="https://lanyard.kyrie25.me/api/1255169221059547139?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Beş+So+Me"></a>
+<a href="https://discord.com/users/1255169221059547139"><img  width="400px" src="https://lanyard.kyrie25.me/api/1255169221059547139?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
+<br> </br>
+<!-- <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=vwuht447wffml59xtfokakivv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
+ </h2> -->
+ <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://svg.yalin.app/vwuht447wffml59xtfokakivv"></a>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
-
-- **Languages**:
-    
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/NashChat/">
-  <img src="https://github-readme-stats.vercel.app/api?username=NashChat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NashChat&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="NashChat"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> My Social Connections..!</b>
-
-<br>
-<div align='left'>
-
-<ul>
-<li>
-<a href="https://youtube.com/@klanter" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  Doxedr-%2300acee.svg?color=c4302b&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="https://sptfy.com/klanter" target="_blank">
-<img src="https://img.shields.io/badge/spotify:  Enesvmmm-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="https://www.instagram.com/oryawashere" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  oryawashere-%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>Don't put off the things you want to achieve, start now...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-
----
+   <img src="https://github-readme-stats.vercel.app/api?username=NashChat&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashChat&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
