@@ -41,10 +41,10 @@ module.exports = Nachash;
 # ・ My Github Stats
 
 <div align="center">
-<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/utw0?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/NashChat?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
 </div>
 <div align="center">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=utw0&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=NashChat&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" img src="https://github-profile-trophy.vercel.app/?username=utw0&theme=onestar&no-frame=true" alt="utw0" /></a> </p>
