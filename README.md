@@ -1,62 +1,50 @@
-<h1 align="center"> </🌼Beş>  
- <img href="https://discord.com/users/928259219038302258" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+fivesobes" alt="Beş Was Here" />
-</h1>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
-<p align="center">
- <a align="center" href="https://discord.com/users/1255169221059547139" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://top.gg/bot/854463472318677022"><img src="https://top.gg/api/widget/servers/854463472318677022.svg"></a>
-  <a align="center" href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<br> </br>
-<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
+<div align="center">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1499;Nachash;Orya">
+</div>
 
- 
-
- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
- <h2 align="center">
- <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
- </h2>
-  <h2 align="center">
- <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
-  </h2>
- 
- 
-  <h2 align="center">
- <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
- <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
- <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
- </h2>
-</br>
-
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
-<h2 align="center">
-<a href="https://supmass.gg/" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113233342645678160.png?size=128&quality=lossless" /> </a>
-<a href="https://discord.gg/luppux" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113238740895281192.png?size=128&quality=lossless" /> </a>
-<a href="https://t.me/coin_modu" target="_blank"><img align="center" alt="Beş" width="80px" src="https://cdn.discordapp.com/emojis/1113237590640955562.png?size=128&quality=lossless" /> </a>
- </h2>
-</br>
+<div align="center">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
+</div>
+<div align="center">
+    <a href="https://instagram.com/oryavanity" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://discord.gg/1499" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:Bes-js?theme=rule34">
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Bes-js?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
-</h2>
+```js
+class luhux {
+constructor(options) {
+this.name = "orya",
+this.age = 19,
+this.discord = "oryaxhunter",
+this.discordId = "1255169221059547139"
+  };
+}
+module.exports = Nachash;
+```
+#
 
+<div align="center">
+  <img src="https://lanyard.kyrie25.me/api/1255169221059547139?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+  </a>
+</div>
 
-<h2 align="center">
- <a href="https://discord.com/users/1255169221059547139"><img  width="400px" src="https://lanyard.kyrie25.me/api/1255169221059547139?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Five+So+Beş+So+Me"></a>
-<a href="https://discord.com/users/1255169221059547139"><img  width="400px" src="https://lanyard.kyrie25.me/api/1255169221059547139?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
-<br> </br>
-<!-- <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=vwuht447wffml59xtfokakivv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
- </h2> -->
- <a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://svg.yalin.app/vwuht447wffml59xtfokakivv"></a>
+<div align="left">
+</div>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=NashChat&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NashChat&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+# ・ Languages and Tools:
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
+# ・ My Github Stats
+
+<div align="center">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/utw0?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
+</div>
+<div align="center">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=utw0&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
+</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" img src="https://github-profile-trophy.vercel.app/?username=utw0&theme=onestar&no-frame=true" alt="utw0" /></a> </p>
