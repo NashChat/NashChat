@@ -17,8 +17,8 @@ class luhux {
 constructor(options) {
 this.name = "orya",
 this.age = 19,
-this.discord = "oryaxhunter",
-this.discordId = "1255169221059547139"
+this.discord = "oryacross",
+this.discordId = "1271135021603881080"
   };
 }
 module.exports = Nachash;
@@ -26,7 +26,7 @@ module.exports = Nachash;
 #
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/1255169221059547139?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
+  <img src="https://lanyard.kyrie25.me/api/1271135021603881080?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
   </a>
 </div>
