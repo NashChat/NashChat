@@ -14,7 +14,7 @@
 </div>
 <div align="center">
     <a href="https://www.instagram.com/whiskyorya/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://open.spotify.com/intl-tr/artist/3EK2LkVkO606JSdpR3QeEg" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://discord.gg/1499" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
